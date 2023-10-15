@@ -1,0 +1,12 @@
+
+type RandomValue @entity {
+  id: ID! # nonce: BigInt!
+  requestorId: String!
+  nonce: BigInt!
+  requestorTimestamp: DateTime!
+  receivedTimestamp: DateTime
+  min: BigInt!
+  max: BigInt!
+  randomValue: BigInt
+}
+ 
