@@ -1,7 +1,7 @@
 manifestVersion: subsquid.io/v0.1
 name: vrf-squid
-version: 1
-description: 'Ink! contract indexing squid  '
+version: 2 
+description: 'VRF decentralized oracle (Shibuya)@'
 build: 
 deploy:
   addons:

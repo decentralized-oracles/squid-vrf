@@ -8,3 +8,5 @@
 /.history
 /db/migrations
 /builds
+
+process.log
