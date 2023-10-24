@@ -16,5 +16,9 @@
   "include": ["src"],
   "exclude": [
     "node_modules"
-  ]
+  ],
+  "resolutions": {
+    "abitype": "0.9.8",
+    "viem":"^1.5.0"
+  }
 }
